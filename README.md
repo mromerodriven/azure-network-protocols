@@ -93,10 +93,10 @@ Let's give it a test run in your VM1. Open up your Powershell. Type in "ping <yo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/GSOT4i8.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we'll set up a perpetual ping. In the following steps, we'll configure the firewall prevent incoming pings and observe the outcome. We'll use the command "ping <your VM2 private ip> -t" and then hit enter.
 </p>
 <br />
 
