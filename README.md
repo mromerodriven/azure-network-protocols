@@ -112,10 +112,10 @@ Back in Azure, navigate to Network Security Groups>Select vm2-nsg>Select Inbound
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/Q2woWz3.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we're going to create a rule that denies ICMP traffic from anywhere to VM2. We're going to make it the priority rule. Then we'll observe what happens to the ping on Wireshark back on VM1.
 </p>
 <br />
 
