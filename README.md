@@ -64,7 +64,7 @@ Inside your Windows VM, Search>Download>Install>Launch Wireshark
 <img src="https://i.imgur.com/wonVLRS.png" height="80%" width="80%"/>
 </p>
 <p>
-With Wireshark open, select the Ethernet adapter, and then click on the blue fin icon. This will show you live traffic on you VM.
+With Wireshark open, select the Ethernet adapter, and then click on the blue fin icon. This will show you live traffic on you VM. 
 </p>
 <br />
 
