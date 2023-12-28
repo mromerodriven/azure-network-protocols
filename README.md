@@ -88,7 +88,7 @@ Next, in Azure, find the private ip for your VM2. We're going to use this addres
 <img src="https://i.imgur.com/y6PWYSk.png" height="80%" width="80%"/>
 </p>
 <p>
-Let's give it a test run in your VM1. Open up your Powershell. Type in "ping <your VM2 private ip>" and hit enter. It should look something like this.
+Let's give it a test run in your VM1. Open up your Powershell. Type in "ping <your VM2 private ip>" and hit enter. It should look something like this. 
 </p>
 <br />
 
