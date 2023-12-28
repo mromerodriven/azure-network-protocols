@@ -88,7 +88,7 @@ Next, in Azure, find the private ip for your VM2. We're going to use this addres
 <img src="https://i.imgur.com/y6PWYSk.png" height="80%" width="80%"/>
 </p>
 <p>
-Let's give it a test run in your VM1. Open up your Powershell. Type in "ping <your VM2 private ip>" and hit enter. It should look something like this. 
+Let's give it a test run in your VM1. Open up your Powershell. Type in "ping (your VM2 private ip)" and hit enter. It should look something like this. 
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Let's give it a test run in your VM1. Open up your Powershell. Type in "ping <yo
 <img src="https://i.imgur.com/GSOT4i8.png" height="80%" width="80%"/>
 </p>
 <p>
-Next, we'll set up a perpetual ping. In the following steps, we'll configure the firewall prevent incoming pings and observe the outcome. We'll use the command "ping <your VM2 private ip> -t" and then hit enter.
+Next, we'll set up a perpetual ping. In the following steps, we'll configure the firewall prevent incoming pings and observe the outcome. We'll use the command "ping (your VM2 private ip) -t" and then hit enter.
 </p>
 <br />
 
