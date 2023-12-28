@@ -101,10 +101,13 @@ Next, we'll set up a perpetual ping. In the following steps, we'll configure the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/K4II20D.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/NMGAw7t.png" height="80%" width="80%"/>
+</p>
+<p>
+Back in Azure, navigate to Network Security Groups>Select vm2-nsg>Select Inbound Security Rules
 </p>
 <br />
 
